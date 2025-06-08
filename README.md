@@ -100,21 +100,25 @@ Visualizations enhance interpretability:
 
 ## Usage
 
-To replicate the analysis:
+To replicate the analysis using Google Colab:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/job-market-insights.git
-   ```
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run Notebooks**:
-   - Execute notebooks sequentially from `01_Data-Preprocess.ipynb` to `05_Corporate-Recruitment-Strategy-Decoding.ipynb`.
-   - Use the provided sample data or replace with your own dataset in the same format.
-4. **View Dashboard**:
-   - Open `tech_stack_dashboard.html` in a web browser for interactive exploration.
+1. **Access the Repository**:
+   - Download the Jupyter notebooks (`00_pip-install-libary` to `05_Corporate-Recruitment-Strategy-Decoding.ipynb`), and `preprocessed_linkedin_data`.
+   OR
+   - Download the Repository (`git clone https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings.git`)
+
+3. **Upload to Google Colab**:
+   - Open [Google Colab](https://colab.research.google.com/).
+   - Upload the downloaded notebooks and `preprocessed_linkedin_data.csv` to your Colab environment.
+
+4. **Run Notebooks**:
+   - Open each notebook in Colab and execute them sequentially from `01_Data-Preprocess.ipynb` to `05_Corporate-Recruitment-Strategy-Decoding.ipynb`.
+   - Use the provided `preprocessed_linkedin_data.csv` or replace it with your own dataset in the same format.
+
+5. **View Dashboard**:
+   - After running `04_Job-Content-Deep-Dive`, download `lda_visualization.html`.
+   - After running `05_Corporate-Recruitment-Strategy-Decoding.ipynb`, download `tech_stack_dashboard.html`.
+   - Open it in a web browser to explore the interactive dashboard.
 
 ---
 
