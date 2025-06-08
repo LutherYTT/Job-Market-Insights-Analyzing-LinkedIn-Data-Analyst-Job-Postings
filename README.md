@@ -14,7 +14,7 @@ In today's competitive job market, understanding employer expectations is vital 
 - [Methodology](#Methodology)
 - [Results](#Results)
 - [Visualization](#Visualization)
-   - [02 Word Cloud](#02_Word-cloud)
+   - [02 Word Cloud](#02-Wordcloud)
    - [03 Core Skills Requirements Analysis](#03-Core-Skills-Requirements-Analysis)
    - [04 Job Content Deep Dive](#04-Job-Content-Deep-Dive)
    - [05 Corporate Recruitment Strategy Decoding](#05-Corporate-Recruitment-Strategy-Decoding)
