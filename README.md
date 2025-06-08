@@ -1,8 +1,12 @@
 # Job Market Insights: Analyzing LinkedIn Data Analyst Job Postings
 
+---
+
 ## Project Description
 
 In today's competitive job market, understanding employer expectations is vital for job seekers aiming to align their skills with industry demands. This project analyzes job postings from LinkedIn to extract actionable insights into required skills, job description trends, and corporate recruitment strategies. Leveraging data analysis and natural language processing (NLP) techniques, it identifies in-demand skills, uncovers hidden requirements within job descriptions, and decodes company hiring patterns. These findings empower job seekers to tailor their applications and skill development effectively, while demonstrating proficiency in data science methodologies applicable across various domains.
+
+---
 
 ## Objectives
 
@@ -17,6 +21,8 @@ The dataset comprises job postings sourced from LinkedIn, including fields such 
 
 - **Data Cleaning**: Removing rows with missing or empty skill entries.
 - **Skill Normalization**: Standardizing skill formats by replacing "和" with "、" and combining skill columns into a unified list.
+
+---
 
 ## Methodology
 
@@ -47,6 +53,8 @@ The analysis is structured across multiple Jupyter notebooks, each addressing a 
      - Interactive dashboard creation with `Plotly`.
    - **Purpose**: Clusters companies by skill requirements and visualizes recruitment strategies.
 
+---
+
 ## Results
 
 Key findings include:
@@ -61,6 +69,34 @@ Visualizations enhance interpretability:
 - Association rule networks and cluster plots (`03_Core-Skills-Requirements-Analysis.ipynb`).
 - LDA topic visualizations (`04_Job-Content-Deep-Dive.ipynb`).
 - An interactive dashboard (`tech_stack_dashboard.html` from `05_Corporate-Recruitment-Strategy-Decoding.ipynb`).
+
+---
+
+## Visualization
+### 02_WordCloud.ipynb
+![Skill Keyword Wordcloud](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_skill_keyword_wordcloud.png)
+![Skill Keyword Bar Chart](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_skill_keyword_bar_chart.png)
+![Job Description Wordcloud](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_job_desc_keyword_wordcloud.png)
+![Job Description Bar Chart](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_job_desc_keyword_bar_chart.png)
+
+### 03_Core-Skills-Requirements-Analysis.ipynb
+![Skill Association Rule](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skill_association_rule.png)
+![Frequent Skill Combinations](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_frequent_skill_combinations.png)
+![Company Cluster By Skill Preferences](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_company_cluster_by_skill_preferences.png)
+![Skills in Cluster 0](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster0.png)
+![Skills in Cluster 1](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster1.png)
+![Skills in Cluster 2](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster2.png)
+![Skills in Cluster 3](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster3.png)
+![Skills in Cluster 4](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster4.png)
+
+### 04_Job-Content-Deep-Dive.ipynb
+![Dashboard](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/04_dashboard.png)
+
+### 05_Corporate-Recruitment-Strategy-Decoding.ipynb
+![Dashboard Part 1](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard1.png)
+![Dashboard Part 2](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard2.png)
+
+---
 
 ## Usage
 
@@ -80,6 +116,8 @@ To replicate the analysis:
 4. **View Dashboard**:
    - Open `tech_stack_dashboard.html` in a web browser for interactive exploration.
 
+---
+
 ## Technologies Used
 
 - **Programming Language**: Python 3.x
@@ -89,6 +127,8 @@ To replicate the analysis:
 - **Machine Learning**: Scikit-learn, mlxtend
 - **Development Tools**: Jupyter Notebooks, Git
 
+---
+
 ## Skills Demonstrated
 
 This project highlights proficiency in:
@@ -97,6 +137,8 @@ This project highlights proficiency in:
 - **Natural Language Processing**: Entity extraction and topic modeling (`04_Job-Content-Deep-Dive.ipynb`).
 - **Data Visualization**: Creating insightful plots and dashboards (`02_WordCloud.ipynb`, `05_Corporate-Recruitment-Strategy-Decoding.ipynb`).
 - **Machine Learning**: Clustering and association rule mining (`03_Core-Skills-Requirements-Analysis.ipynb`).
+
+---
 
 ## Future Work
 
