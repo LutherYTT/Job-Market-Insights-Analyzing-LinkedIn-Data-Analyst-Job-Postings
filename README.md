@@ -8,6 +8,23 @@ In today's competitive job market, understanding employer expectations is vital 
 
 ---
 
+## **Table of Contents**
+- [Objectives](#Objectives)
+- [Data Source and Preprocessing](#Data-Source-and-Preprocessing)
+- [Methodology](#Methodology)
+- [Results](#Results)
+- [Visualization](#Visualization)
+   - [02 Word Cloud](#02_Wordcloud)
+   - [03 Core Skills Requirements Analysis](#03-Core-Skills-Requirements-Analysis)
+   - [04 Job Content Deep Dive](#04-Job-Content-Deep-Dive)
+   - [05 Corporate Recruitment Strategy Decoding](#05-Corporate-Recruitment-Strategy-Decoding)
+- [Usage](#Usage)
+- [Technologies Used](#Technologies-Used)
+- [Skills Demonstrated](#Skills-Demonstrated)
+- [Future Work](#Future-Work)
+
+---
+
 ## Objectives
 
 - **Identify In-Demand Skills**: Determine the most frequently required skills across LinkedIn job postings.
@@ -73,13 +90,13 @@ Visualizations enhance interpretability:
 ---
 
 ## Visualization
-### 02_WordCloud.ipynb
+### 02 Wordcloud
 ![Skill Keyword Wordcloud](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_skill_keyword_wordcloud.png)
 ![Skill Keyword Bar Chart](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_skill_keyword_bar_chart.png)
 ![Job Description Wordcloud](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_job_desc_keyword_wordcloud.png)
 ![Job Description Bar Chart](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/02_job_desc_keyword_bar_chart.png)
 
-### 03_Core-Skills-Requirements-Analysis.ipynb
+### 03 Core Skills Requirements Analysis
 ![Skill Association Rule](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skill_association_rule.png)
 ![Frequent Skill Combinations](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_frequent_skill_combinations.png)
 ![Company Cluster By Skill Preferences](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_company_cluster_by_skill_preferences.png)
@@ -89,10 +106,10 @@ Visualizations enhance interpretability:
 ![Skills in Cluster 3](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster3.png)
 ![Skills in Cluster 4](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster4.png)
 
-### 04_Job-Content-Deep-Dive.ipynb
+### 04 Job Content Deep Dive
 ![Dashboard](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/04_dashboard.png)
 
-### 05_Corporate-Recruitment-Strategy-Decoding.ipynb
+### 05 Corporate Recruitment Strategy Decoding
 ![Dashboard Part 1](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard1.png)
 ![Dashboard Part 2](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard2.png)
 
