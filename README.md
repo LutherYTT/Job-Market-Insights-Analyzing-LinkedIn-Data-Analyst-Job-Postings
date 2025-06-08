@@ -22,6 +22,7 @@ In today's competitive job market, understanding employer expectations is vital 
 - [Technologies Used](#Technologies-Used)
 - [Skills Demonstrated](#Skills-Demonstrated)
 - [Future Work](#Future-Work)
+- [Conclusion](#Conclusion)
 
 ---
 
@@ -171,6 +172,6 @@ Potential enhancements include:
 
 ---
 
-### Conclusion
+## Conclusion
 
 This project offers a data-driven lens into the job market, providing actionable insights for job seekers while showcasing advanced data science techniques. The methodologies and skills demonstrated are broadly applicable, making it a strong portfolio piece for roles in data analysis, NLP, and machine learning.
