@@ -1,7 +1,5 @@
 # Job Market Insights: Analyzing LinkedIn Data Analyst Job Postings
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
 ## Project Description
 
 In today's competitive job market, understanding employer expectations is vital for job seekers aiming to align their skills with industry demands. This project analyzes job postings from LinkedIn to extract actionable insights into required skills, job description trends, and corporate recruitment strategies. Leveraging data analysis and natural language processing (NLP) techniques, it identifies in-demand skills, uncovers hidden requirements within job descriptions, and decodes company hiring patterns. These findings empower job seekers to tailor their applications and skill development effectively, while demonstrating proficiency in data science methodologies applicable across various domains.
