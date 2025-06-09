@@ -16,8 +16,8 @@ In today's competitive job market, understanding employer expectations is vital 
 - [Visualization](#Visualization)
    - [02 Word Cloud](#02-Wordcloud)
    - [03 Core Skills Requirements Analysis](#03-Core-Skills-Requirements-Analysis)
-   - [04 Job Content Deep Dive](#04-Job-Content-Deep-Dive)
-   - [05 Corporate Recruitment Strategy Decoding](#05-Corporate-Recruitment-Strategy-Decoding)
+   - [04 Job Content Deep Dive](#04-Job-Content-Deep-Dive-(Dashboard))
+   - [05 Corporate Recruitment Strategy Decoding](#05-Corporate-Recruitment-Strategy-Decoding-(Dashboard))
 - [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
 - [Skills Demonstrated](#Skills-Demonstrated)
@@ -107,10 +107,10 @@ Visualizations enhance interpretability:
 ![Skills in Cluster 3](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster3.png)
 ![Skills in Cluster 4](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/03_skills_in_cluster4.png)
 
-### 04 Job Content Deep Dive
+### 04 Job Content Deep Dive (Dashboard)
 ![Dashboard](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/04_dashboard.png)
 
-### 05 Corporate Recruitment Strategy Decoding
+### 05 Corporate Recruitment Strategy Decoding (Dashboard)
 ![Dashboard Part 1](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard1.png)
 ![Dashboard Part 2](https://github.com/LutherYTT/Job-Market-Insights-Analyzing-LinkedIn-Data-Analyst-Job-Postings/blob/main/asstes/05_dashboard2.png)
 
